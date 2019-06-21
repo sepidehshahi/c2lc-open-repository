@@ -1,3 +1,21 @@
 title = "Coding to Learn and Create"
 languageCode = "en"
 theme = "cupper"
+
+[menu]
+  [[menu.nav]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.nav]]
+    name = "Accessible Coding Basics"
+    url = "/accessible-coding-basics/"
+    weight = 2
+  [[menu.nav]]
+    name = "Lesson Plans and Materials"
+    url = "/lesson-plans-and-materials/"
+    weight = 3
+  [[menu.nav]]
+    name = "Resources and Links"
+    url = "/resources-and-links/"
+    weight = 4
