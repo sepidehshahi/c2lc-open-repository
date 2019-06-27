@@ -2,11 +2,10 @@
 title: How to Care for Robots
 ---
 
-Short description of the activity
 
 {{< figure
 img="Dash and Dot - How to Care for Robots-01.jpg"
-caption="Dash and Dot - How to Care for Robots"
+caption="How to Care for Dash and Dot Robots"
 command="Resize"
 options="700x" >}}
 

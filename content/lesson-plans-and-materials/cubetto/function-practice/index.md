@@ -1,5 +1,5 @@
 ---
-title: Introducing Function-Practice Activity
+title: Introducing Function Practice Activity
 ---
 
 This activity is designed to support students in developing an understanding of repeated patterns and the coding language associated with them. The slides in this section are to be used during the MODEL segment of the lesson plan.

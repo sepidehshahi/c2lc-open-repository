@@ -2,7 +2,9 @@
 title: Direction Arrow
 ---
 
-Print multiple copies of this arrow. Cut around the outline so that students have square sheets of paper with one arrow on each page. Use the arrows to create a path on the floor for partner to follow.
+1. Print multiple copies of this arrow.
+2. Cut around the outline so that students have square sheets of paper with one arrow on each page.
+3. Use the arrows to create a path on the floor for partner to follow.
 
 {{< figure
 img="Direction Arrow-01.jpg"

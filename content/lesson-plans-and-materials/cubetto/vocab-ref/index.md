@@ -1,8 +1,7 @@
 ---
-title: Vocabulary Student Reference Page L-R-F
+title: Cubetto Vocabulary - Student Reference Page
 ---
 
-Description of what this activity is? What is its purpose?
 
 {{< figure
 img="Vocabulary Student Reference Page L-R-F-01.jpg"

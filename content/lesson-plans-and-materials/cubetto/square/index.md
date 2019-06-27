@@ -1,75 +1,75 @@
 ---
-title: Coding 4 Square With Fringe
+title: Coding 4 Square With Cubetto Fringe
 ---
 
-Short description of the activity
 
 {{< figure
 img="Coding 4 Square with Fringe-01.jpg"
-caption="Coding 4 Square with Fringe-01"
+caption="Coding 4 Square with Fringe"
 command="Resize"
 options="700x" >}}
 
 {{< figure
 img="Coding 4 Square with Fringe-02.jpg"
-caption="Coding 4 Square with Fringe-02"
+caption="Coding 4 Square with Fringe"
 command="Resize"
 options="700x" >}}
 
 {{< figure
 img="Coding 4 Square with Fringe-03.jpg"
-caption="Coding 4 Square with Fringe-03"
+caption="Coding 4 Square with Fringe"
 command="Resize"
 options="700x" >}}
 
 {{< figure
 img="Coding 4 Square with Fringe-04.jpg"
-caption="Coding 4 Square with Fringe-04"
+caption="Coding 4 Square with Fringe"
 command="Resize"
 options="700x" >}}
 
 {{< figure
 img="Coding 4 Square with Fringe-05.jpg"
-caption="Coding 4 Square with Fringe-05"
+caption="Coding 4 Square with Fringe"
 command="Resize"
 options="700x" >}}
 
 {{< figure
 img="Coding 4 Square with Fringe-06.jpg"
-caption="Coding 4 Square with Fringe-06"
+caption="Coding 4 Square with Fringe"
 command="Resize"
 options="700x" >}}
 
 {{< figure
 img="Coding 4 Square with Fringe-07.jpg"
-caption="Coding 4 Square with Fringe-07"
+caption="Coding 4 Square with Fringe"
 command="Resize"
 options="700x" >}}
 
 {{< figure
 img="Coding 4 Square with Fringe-08.jpg"
-caption="Coding 4 Square with Fringe-08"
+caption="Coding 4 Square with Fringe"
 command="Resize"
 options="700x" >}}
 
 {{< figure
 img="Coding 4 Square with Fringe-09.jpg"
-caption="Coding 4 Square with Fringe-09"
+caption="Coding 4 Square with Fringe"
 command="Resize"
 options="700x" >}}
 
 {{< figure
 img="Coding 4 Square with Fringe-10.jpg"
-caption="Coding 4 Square with Fringe-10"
+caption="Coding 4 Square with Fringe"
 command="Resize"
 options="700x" >}}
 
 {{< figure
 img="Coding 4 Square with Fringe-11.jpg"
-caption="Coding 4 Square with Fringe-11"
+caption="Coding 4 Square with Fringe"
 command="Resize"
 options="700x" >}}
 
 
 Credit to Core board from the Centre for Literacy and Disability Studies with fringe vocabulary for coding.
+
 [Download PDF Document](/PDF/Coding 4 square with fringe.pdf)

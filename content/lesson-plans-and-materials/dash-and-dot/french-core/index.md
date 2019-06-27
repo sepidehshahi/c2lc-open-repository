@@ -2,11 +2,10 @@
 title: French Core with Dash Dot Fringe
 ---
 
-Short description of the activity
 
 {{< figure
 img="French Core with Dash Dot Fringe-01.jpg"
-caption="French Core with Dash Dot Fringe-01"
+caption="French Core with Dash Dot Fringe"
 command="Resize"
 options="700x" >}}
 
