@@ -1,5 +1,6 @@
 ---
 title: Student TipSheet - We Collaborate to Solve Problems
+type: general
 ---
 
 

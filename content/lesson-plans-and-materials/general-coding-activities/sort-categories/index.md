@@ -1,5 +1,6 @@
 ---
 title: Sort Categories
+type: general
 ---
 
 

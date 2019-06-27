@@ -1,5 +1,6 @@
 ---
 title: Strategies to Support Collaborative Discussion
+type: general
 ---
 
 Learning to code and create allows all students to develop important problem-solving skills that they can apply to many different aspects of their learning and their lives. These skills include the ability to break down problems into smaller parts, and to draw on both logic and creativity to figure out the best ways to solve them (Lechelt, Zuzanna & Rogers, Yvonne & Yuill, Nicola & Nagl, Lena & Ragone, Grazia & Marquardt, Nicolai. 2018).

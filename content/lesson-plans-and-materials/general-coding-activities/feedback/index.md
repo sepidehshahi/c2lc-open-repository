@@ -1,5 +1,6 @@
 ---
 title: Student TipSheet - Giving Feedback
+type: general
 ---
 
 

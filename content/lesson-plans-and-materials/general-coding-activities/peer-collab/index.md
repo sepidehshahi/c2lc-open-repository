@@ -1,5 +1,6 @@
 ---
 title: Strategies to Support Peer Collaboration
+type: general
 ---
 
 Research has shown that collaborative learning can promote cooperation and improve academic achievement for a broad range of learners in K-12 classrooms (Barkley, Cross, &amp; Major 2014, cited by Lash, T., Jeong, G., Wherfel, Q., &amp; Israel, M. (2017). Activities that involve learning to code and coding to learn and create, offer opportunities to develop important teamwork skills that prepare students for further learning, work and life.
