@@ -58,6 +58,7 @@ abbr {
 img {
     max-width: 100%;
     max-height: 50vh;
+    border: 2px solid #111;
 }
 .img-link {
     border-bottom: none;
@@ -254,7 +255,7 @@ label {
 /* Tables */
 table {
     text-align: left;
-    table-layout: fixed;
+    table-layout: auto;
     width: 100%;
     border-collapse: collapse;
 }
@@ -265,6 +266,7 @@ td {
     line-height: 1.25;
     margin: 0;
     vertical-align: top;
+
 }
 th {
     font-weight: bold;
@@ -538,11 +540,11 @@ caption {
 
 /* Figures */
 figure {
-    text-align: center;
+    text-align: left;
 }
 figcaption {
     font-size: 0.85rem;
-    font-style: italic;
+    font-style: regular;
     margin-top: 0.5rem;
 }
 main {

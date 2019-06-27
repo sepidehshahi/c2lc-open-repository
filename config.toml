@@ -3,8 +3,8 @@ languageCode = "en"
 theme = "cupper-hugo-theme"
 
 [params]
-  description = "An open source toolkit for educators to build a more inclusive coding education"
-  homeMetaContent = "An open source toolkit for educators to build a more inclusive coding education"
+  description = "An open source toolkit for educators to build more inclusive coding education"
+  homeMetaContent = "An open source toolkit for educators to build more inclusive coding education"
 
 [menu]
   [[menu.nav]]

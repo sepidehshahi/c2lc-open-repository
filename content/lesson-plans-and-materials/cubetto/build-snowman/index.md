@@ -1,5 +1,5 @@
 ---
-title: 3 Step Building A Snowman
+title: 3 Step Building a Snowman
 ---
 
 The purpose of this activity is to place the items in the correct order.
@@ -7,13 +7,13 @@ Students are asked to place labels and symbols for each step of the sequence bel
 
 {{< figure
 img="3 Step Sequence Vertical Building a Snowman-01.jpg"
-caption="3 Step Sequence Vertical Building a Snowman-Steps"
+caption="3 Step Sequence-Building a Snowman-Steps"
 command="Resize"
 options="700x" >}}
 
 {{< figure
 img="3 Step Sequence Vertical Building a Snowman-02.jpg"
-caption="3 Step Sequence Vertical Building a Snowman-Items"
+caption="3 Step Sequence-Building a Snowman-Items"
 command="Resize"
 options="700x" >}}
 
