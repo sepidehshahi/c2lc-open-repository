@@ -15,7 +15,7 @@ This framework is intended to support educators as they explore and consider app
 
 ## Accessibility Considerations
 
-|Potential Barrier|Severity of Barrier(0 - 5) (How inaccessible does this make it for your students?)|Potential Solutions (AT Tools, Instructional Strategies, Modifications)|
+|Potential Barrier|Severity of Barrier (0 - 5) (How inaccessible does this make it for your students?)|Potential Solutions (AT Tools, Instructional Strategies, Modifications)|
 |---------|--------|--------|
 |**Reading**| | |
 |There are text instructions that require reading (i.e. are not presented auditorily or supported by images).| | |
@@ -46,7 +46,7 @@ This framework is intended to support educators as they explore and consider app
 ## Potential Solution Ideas
 |Reading |Writing |Cognitive |Visual Perceptual |Fine Motor |
 |---------|--------|---------|--------|---------|
-|<ul><li>Text to Speech Tools</li><li>Dictionary Tools</li><li>Word Wall with Symbols</li><li>Colour Coding</li></ul>|<ul><li>Word Prediction Tool</li><li>Speech Input Tool</li><li>Option cards</li><li>Partner Assisted Scanning</li><li>Alternate Keyboard</li></ul>|<ul><li>Visual Step by Step Sequences</li><li>Checklists</li><li>Anchor Activity</li><li>Picture supports</li><li>Guided practice</li><li>Repetition with variety</li><li>Adapt physical materials</li><li>Provide replicas of materials to isolate concepts</li></ul>|<ul><li>Anchor Activity</li><li>Visual replicas of materials to isolate concepts</li><li>Manipulatives (i.e. ribbon, blocks, stickers)</li><li>Directionality - bridge the gap between person and objects through physical orientation (i.e. identifying left/right of an object facing a different direction)</li><li>Adapt abstract materials to make them more concrete</li></ul>|<ul><li>Use of stylus</li><li>Modification of selection tool</li><li>Adjustment of accessibility settings</li><li>Gesture creation</li><li>Use of external alternate access devices</li><li>Partner assisted scanning</li><li>Modification/ adaptation of concrete manipulatives</li></ul>|
+|<ul><li>Text to Speech Tools</li><li>Dictionary Tools</li><li>Word Wall with Symbols</li><li>Colour Coding</li></ul>|<ul><li>Word Prediction Tool</li><li>Speech Input Tool</li><li>Option cards</li><li>Partner Assisted Scanning</li><li>Alternate Keyboard</li></ul>|<ul><li>Visual Step by Step Sequences</li><li>Checklists</li><li>Anchor Activity</li><li>Picture supports</li><li>Guided practice</li><li>Repetition with variety</li><li>Adapt physical materials</li><li>Provide replicas of materials to isolate concepts</li></ul>|<ul><li>Anchor Activity</li><li>Visual replicas of materials to isolate concepts</li><li>Manipulatives (i.e. ribbon, blocks, stickers)</li><li>Directionality- bridge the gap between person and objects through physical orientation (i.e. identifying left/right of an object facing a different direction)</li><li>Adapt abstract materials to make them more concrete</li></ul>|<ul><li>Use of stylus</li><li>Modification of selection tool</li><li>Adjustment of accessibility settings</li><li>Gesture creation</li><li>Use of external alternate access devices</li><li>Partner assisted scanning</li><li>Modification/ adaptation of concrete manipulatives</li></ul>|
 
 
 **NOTE**:  Be sure to check the compatibility of a student's current support products with the coding application(s) being considered. Also consider whether the use of the products requires instruction prior to expecting them to support coding instruction.
