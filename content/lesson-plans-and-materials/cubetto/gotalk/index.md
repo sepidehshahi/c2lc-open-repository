@@ -1,8 +1,7 @@
 ---
-title: GoTalk 9+ Cubetto Board
+title: GoTalk 9 + Cubetto Board
 ---
 
-Short description of the activity
 
 {{< figure
 img="GoTalk 9+ Cubetto board.jpg"

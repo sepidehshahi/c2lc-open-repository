@@ -1,39 +1,39 @@
 ---
-title: Core 9 Location Cubetto Fringe
+title: Cubetto 9 Location Fringe
 ---
 
-Short description of the activity
 
 {{< figure
 img="Core 9 Location Cubetto Fringe-01.jpg"
-caption="Core 9 Location Cubetto Fringe-01"
+caption="Core 9 Location Cubetto Fringe"
 command="Resize"
 options="700x" >}}
 
 {{< figure
 img="Core 9 Location Cubetto Fringe-02.jpg"
-caption="Core 9 Location Cubetto Fringe-02"
+caption="Core 9 Location Cubetto Fringe"
 command="Resize"
 options="700x" >}}
 
 {{< figure
 img="Core 9 Location Cubetto Fringe-03.jpg"
-caption="Core 9 Location Cubetto Fringe-03"
+caption="Core 9 Location Cubetto Fringe"
 command="Resize"
 options="700x" >}}
 
 {{< figure
 img="Core 9 Location Cubetto Fringe-04.jpg"
-caption="Core 9 Location Cubetto Fringe-04"
+caption="Core 9 Location Cubetto Fringe"
 command="Resize"
 options="700x" >}}
 
 {{< figure
 img="Core 9 Location Cubetto Fringe-05.jpg"
-caption="Core 9 Location Cubetto Fringe-05"
+caption="Core 9 Location Cubetto Fringe"
 command="Resize"
 options="700x" >}}
 
 
 Credit to Core board from the Centre for Literacy and Disability Studies with fringe vocabulary for coding.
+
 [Download PDF Document](/PDF/Core 9 location Cubetto fringe.pdf)

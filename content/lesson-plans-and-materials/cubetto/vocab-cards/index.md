@@ -1,8 +1,7 @@
 ---
-title: Vocabulary Cards
+title: Cubetto Vocabulary Cards
 ---
 
-Short description of the activity.
 
 {{< figure
 img="Cubetto Vocabulary Cards-01.jpg"

@@ -1,8 +1,7 @@
 ---
-title: French Coding With Fringe
+title: French Coding With Cubetto Fringe
 ---
 
-Short description of the activity
 
 {{< figure
 img="French Coding With Fringe.jpg"
