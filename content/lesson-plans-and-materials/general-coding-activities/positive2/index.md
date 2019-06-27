@@ -1,5 +1,6 @@
 ---
 title: Student TipSheet - Tell Something Positive 02
+type: general
 ---
 
 {{< figure

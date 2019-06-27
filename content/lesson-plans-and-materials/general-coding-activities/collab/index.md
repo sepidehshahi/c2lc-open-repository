@@ -1,5 +1,6 @@
 ---
 title: Student TipSheet - We Collaborate
+type: general
 ---
 
 {{< figure

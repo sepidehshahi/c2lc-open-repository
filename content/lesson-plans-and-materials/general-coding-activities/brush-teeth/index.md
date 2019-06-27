@@ -1,5 +1,6 @@
 ---
 title: 3 Step Sequence - Brushing Teeth
+type: general
 ---
 
 The purpose of this activity is to place the items in the correct order.

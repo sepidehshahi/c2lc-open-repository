@@ -1,5 +1,6 @@
 ---
 title: 4 Step Sequence - Making Pizza
+type: general
 ---
 
 The purpose of this activity is to place the items in the correct order.

@@ -1,5 +1,6 @@
 ---
 title: 5 Step Sequence - Getting Dressed
+type: general
 ---
 
 The purpose of this activity is to place the items in the correct order.
