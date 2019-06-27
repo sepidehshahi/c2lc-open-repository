@@ -1,3 +1,4 @@
 ---
 title: Cubetto
+includeGeneral: true
 ---
