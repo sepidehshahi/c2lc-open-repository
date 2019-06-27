@@ -1,10 +1,12 @@
 {{ define "main" }}
-{{ $children := union .Pages.ByTitle .Sections.ByTitle }}
+{{ $pagelist := union .Pages.ByTitle .Sections.ByTitle }}
+{{ $generallist := where .Site.Pages "Params.type" "general" }}
+{{ $pagelist := cond (eq .Params.includeGeneral true) (union $generallist $pagelist) $pagelist}}
   <main id="main">
     <h1>{{ .Title }}</h1>
     {{ .Content }}
     <ul class="patterns-list">
-    {{ range $children }}
+    {{ range $pagelist }}
       <li>
         <h2>
           <a href="{{ .Permalink }}">
