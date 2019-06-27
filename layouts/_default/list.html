@@ -1,9 +1,10 @@
 {{ define "main" }}
+{{ $children := union .Pages.ByTitle .Sections.ByTitle }}
   <main id="main">
     <h1>{{ .Title }}</h1>
     {{ .Content }}
     <ul class="patterns-list">
-    {{ range .Pages.ByTitle }}
+    {{ range $children }}
       <li>
         <h2>
           <a href="{{ .Permalink }}">
