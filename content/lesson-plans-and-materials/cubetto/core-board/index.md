@@ -1,6 +1,9 @@
 ---
 title: Coding Core Board With Cubetto Fringe
 ---
+Communication board, single page; 36 core and 6 fringe words for Cubetto.  Core board is from the Centre for Literacy and Disability Studies.
+This board is meant to be used with direct selection for students who have the language and vision ability to manage 42 items on a page.
+For students who have dedicated communication devices with the core vocabulary, consider adding the fringe vocabulary for Cubetto to the device.
 
 
 {{< figure

@@ -3,6 +3,7 @@ title: Sort Categories
 type: general
 ---
 
+The purpose of this activity is to develop an understanding of categorization.  There are several image sets provided for sorting; cut these into individual squares.  Each group of images can be sorted in multiple ways or image sets can be combined.  Students practice identifying attributes of the images given and group them together in bins.   2 and 3 category bin pages have been provided.
 
 {{< figure
 img="Sort Categories-01.jpg"

@@ -1,7 +1,7 @@
 ---
 title: Blocky Vocabulary Cards
 ---
-
+These cards were designed to support students in developing a solid understanding of the vocabulary required for coding with Dash and Dot.  Each vocabulary card provides symbols to assist with decoding and corresponding application images so that students can make direct connections between the vocabulary term and the feature/function.  Vocabulary should be explicitly taught and on display for visual reference throughout each lesson.
 
 {{< figure
 img="Blocky Vocabulary Cards-01.jpg"

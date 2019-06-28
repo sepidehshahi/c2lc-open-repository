@@ -3,6 +3,7 @@ title: Student TipSheet - We Collaborate to Solve Problems
 type: general
 ---
 
+This resource was designed to support student collaboration, critical thinking and problem solving during partner activities.
 
 |**What are you trying to do?**|
 |-----|

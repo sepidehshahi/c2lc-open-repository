@@ -1,7 +1,7 @@
 ---
 title: Blocky Category Vocabulary Cards
 ---
-
+These cards were designed to support students in developing a solid understanding of the categories that store coding blocks in Blockly.  Each category card provides a symbol to assist with decoding and the corresponding Blockly blocks they will find in that collection.  Categories should be explicitly introduced when blocks within are required, and left on display for visual reference throughout each lesson.
 
 {{< figure
 img="Blocky Category Vocabulary Cards-01.jpg"

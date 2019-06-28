@@ -1,7 +1,9 @@
 ---
 title: Dash and Dot Eye Gaze 4 Location
 ---
-
+Communication board, 12 pages, 8 words per page. Core vocabulary is from the Centre for Literacy and Disability Studies.
+This board is meant to be used with eye gaze on an ETRAN or another platform with one item in each corner. The symbol vocabulary is attached to the side that the student sees, while the text for each vocabulary item is attached to the side that the communication partner sees.
+For students who have dedicated communication devices with the core vocabulary, consider adding the fringe vocabulary for Dash and Dot to the device.
 
 {{< figure
 img="Dash Dot Eye Gaze 4 Location-01.jpg"
