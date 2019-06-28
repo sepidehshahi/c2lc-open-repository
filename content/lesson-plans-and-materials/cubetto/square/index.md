@@ -1,6 +1,9 @@
 ---
 title: Coding 4 Square With Cubetto Fringe
 ---
+Communication board, 11 pages, 4 words per page; 36 core and 8 fringe words for Cubetto.  Core vocabulary is from the Centre for Literacy and Disability Studies.
+This board is meant to be used with direct selection for students who benefit from a limited number of vocabulary items per page due to  language and/or vision ability.
+For students who have dedicated communication devices with the core vocabulary, consider adding the fringe vocabulary for Cubetto to the device.
 
 
 {{< figure

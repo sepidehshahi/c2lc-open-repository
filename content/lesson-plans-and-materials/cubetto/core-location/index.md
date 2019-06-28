@@ -1,6 +1,9 @@
 ---
 title: Cubetto 9 Location Fringe
 ---
+Communication board, 5 pages, 9 words per page; 36 core and 9 fringe words for Cubetto.  Core board is from the Centre for Literacy and DIsability Studies.
+This board is meant to be used with direct selection for students who benefit from having a limited number of vocabulary items per page due to language and/or vision ability.
+For students who have dedicated communication devices with the core vocabulary, consider adding the fringe vocabulary for Cubetto to the device.
 
 
 {{< figure

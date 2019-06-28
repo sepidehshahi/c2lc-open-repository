@@ -1,6 +1,7 @@
 ---
 title: Dash and Dot 9 Location Fringe
 ---
+Communication board, 5 pages, 9 words per page; 36 core and 9 fringe words for Dash and Dot.  Core board is from the Centre for Literacy and Disability Studies.
 
 
 {{< figure
