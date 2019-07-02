@@ -2,7 +2,7 @@
 title: Organizations
 ---
 
-This page will include a list of organizations, groups and communities that work in the filed of accessible coding education.
+This page will include a list of organizations, groups and communities that work in the field of accessible coding education.
 
 {{% ticks %}}
 * [Bridges Canada](https://www.bridges-canada.com/)
