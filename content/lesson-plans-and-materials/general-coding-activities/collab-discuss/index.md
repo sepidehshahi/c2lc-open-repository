@@ -1,5 +1,5 @@
 ---
-title: Strategies to Support Collaborative Discussion
+title: Strategies to Support Problem Solving
 type: general
 ---
 
