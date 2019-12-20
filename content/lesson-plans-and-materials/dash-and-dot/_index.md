@@ -1,3 +1,0 @@
----
-title: Dash and Dot
----
