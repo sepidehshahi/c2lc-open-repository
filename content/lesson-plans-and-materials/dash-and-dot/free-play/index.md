@@ -5,10 +5,12 @@ title: Free Play with Dash
 In this activity, learners try different aspects of the Inclusive Learning Program through play and exploration.
 
 
-- **Difficulty Level**: Easy
-- **Prep time**: 5 minutes
-- **Materials**: A large sheet of paper, tape, markers
+- **Difficulty Level:** Easy
+- **Prep time:** 5 minutes
+- **Technology:** Windows, Mac or Chromebooks with a Chrome web browser, Internet access, Dash robot
+- **Materials:** A large sheet of paper, tape, markers
 
+[![Activity preparation video](https://img.youtube.com/vi/PfgcanzYuVQ/0.jpg)](https://www.youtube.com/watch?v=PfgcanzYuVQ&feature=youtu.be)
 
 # Step by Step Prep
 ## Step 1
