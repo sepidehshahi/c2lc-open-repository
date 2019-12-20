@@ -5,10 +5,12 @@ title: Robot on a Mission
 In this activity, students plan and build a path to direct Dash to move to a specific object on a grid map.
 
 
-- **Difficulty Level**: Moderate
-- **Preparation time**: 8-10 minutes
-- **Materials**: Objects, tape, 8-16 printed grid tiles [Download Grid Tile Document](/PDF/GridTile.pdf)
+- **Difficulty Level:** Moderate
+- **Preparation time:** 8-10 minutes
+- **Technology:** Windows, Mac or Chromebooks with a Chrome web browser, Internet access, Dash robot 
+- **Materials:** Objects, tape, 8-16 printed grid tiles [Download Grid Tile Document](/PDF/GridTile.pdf)
 
+[![Activity preparation video](https://img.youtube.com/vi/weysCKVOGDc/0.jpg)](https://www.youtube.com/watch?v=weysCKVOGDc&feature=youtu.be)
 
 # Step by Step Prep
 ## Step 1
