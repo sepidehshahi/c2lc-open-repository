@@ -5,10 +5,12 @@ title: Tracing Shapes with Dash
 In this activity, students plan and build a sequence of movements to trace simple shapes.
 
 
-- **Difficulty Level**: Advanced
-- **Prep time**: 5 minutes
-- **Materials**: A large sheet of paper, tape, markers, printed Shapes for tracing [Download Shapes Document](/PDF/Shapes.pdf)
+- **Difficulty Level:** Advanced
+- **Prep time:** 5 minutes
+- **Technology:** Windows, Mac or Chromebooks with a Chrome web browser, Internet access, Dash robot
+- **Materials:** A large sheet of paper, tape, markers, printed Shapes for tracing [Download Shapes Document](/PDF/Shapes.pdf)
 
+[![Activity preparation video](https://img.youtube.com/vi/YPKSSnKR47c/0.jpg)](https://www.youtube.com/watch?v=YPKSSnKR47c&feature=youtu.be)
 
 
 # Step by Step Prep
